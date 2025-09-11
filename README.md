@@ -153,17 +153,17 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-!<img width="657" height="527" alt="image" src="https://github.com/user-attachments/assets/d284d493-a4fb-4481-9450-0a79491e1128" />
+<img width="657" height="527" alt="image" src="https://github.com/user-attachments/assets/d284d493-a4fb-4481-9450-0a79491e1128" />
 
 
 
-![OP32](<img width="663" height="531" alt="image" src="https://github.com/user-attachments/assets/6eaa0f25-d75d-4f39-bf24-17537887e5a9" />
-)
+<img width="663" height="531" alt="image" src="https://github.com/user-attachments/assets/6eaa0f25-d75d-4f39-bf24-17537887e5a9" />
+
 
 ### Classification Report
 
-![OP33](<img width="519" height="362" alt="image" src="https://github.com/user-attachments/assets/a3e7853a-eadc-4607-8760-37eaf40414ba" />
-)
+<img width="519" height="362" alt="image" src="https://github.com/user-attachments/assets/a3e7853a-eadc-4607-8760-37eaf40414ba" />
+
 
 
 ### Confusion Matrix
@@ -175,12 +175,12 @@ print(x_single_prediction)
 
 ##### Input
 
-![op35 (2)](<img width="513" height="522" alt="image" src="https://github.com/user-attachments/assets/4630310d-a944-4ab4-898c-2fb539ab64f4" />
-)
+<img width="513" height="522" alt="image" src="https://github.com/user-attachments/assets/4630310d-a944-4ab4-898c-2fb539ab64f4" />
+
 
 ##### Output
-![op36 (2)](<img width="435" height="117" alt="image" src="https://github.com/user-attachments/assets/154a302c-c53e-4949-80f9-a69c7b6faf44" />
-)
+<img width="435" height="117" alt="image" src="https://github.com/user-attachments/assets/154a302c-c53e-4949-80f9-a69c7b6faf44" />
+
 
 ## RESULT
   Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.

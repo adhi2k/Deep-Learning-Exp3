@@ -153,8 +153,8 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![OP31](<img width="657" height="527" alt="image" src="https://github.com/user-attachments/assets/d284d493-a4fb-4481-9450-0a79491e1128" />
-)
+!<img width="657" height="527" alt="image" src="https://github.com/user-attachments/assets/d284d493-a4fb-4481-9450-0a79491e1128" />
+
 
 
 ![OP32](<img width="663" height="531" alt="image" src="https://github.com/user-attachments/assets/6eaa0f25-d75d-4f39-bf24-17537887e5a9" />

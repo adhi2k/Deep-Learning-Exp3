@@ -168,8 +168,8 @@ print(x_single_prediction)
 
 ### Confusion Matrix
 
-![OP34](<img width="510" height="238" alt="image" src="https://github.com/user-attachments/assets/5afc5ad2-83f9-4d10-b0a1-abfe9c5d108b" />
-)
+<img width="533" height="306" alt="image" src="https://github.com/user-attachments/assets/260c42e2-ca07-4b64-988b-a08c83bc05f0" />
+
 
 ### New Sample Data Prediction
 
